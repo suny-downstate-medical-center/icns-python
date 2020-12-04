@@ -1,27 +1,14 @@
 # Intrinsic Cardiac Nervous System - Principal Neuron model - Python
 Version 0.1
 
-The mod files are from here:
-https://senselab.med.yale.edu/ModelDB/ShowModel?model=3800
-
 # Contents
 PN_model.py; README.md, example_plot_python.png
 
 # Usage
-## Install NEURON
-Enter:
-pip3 install neuron
-
-## Compile the mod files
-Enter: 
-nrnivmodl mod
-
-## Install NetPyNE
-Clone the repo by entering:
-git clone https://github.com/Neurosim-lab/netpyne.git
-
-Install the repo, enter:
-pip3 install -e netpyne
+## Download the following script from repo: 
+PN_model.py
+  
+## Open new Terminal window.
 
 ## Run a simulation
 Enter:
