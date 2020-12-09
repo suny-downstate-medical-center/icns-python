@@ -4,10 +4,9 @@
 PN_model.py; README.md, example_plot_python.png
 
 # Usage
-## Download the following script from repo: 
-PN_model.py
-  
 ## Open new Terminal window.
+
+## Git clone the repository
 
 ## If creating a virtual envnironemnt:
 ### Add the following aliases to your .zshrc or .bashrc file:
