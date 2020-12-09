@@ -1,5 +1,4 @@
 # Intrinsic Cardiac Nervous System - Principal Neuron model - Python
-Version 0.1
 
 # Contents
 PN_model.py; README.md, example_plot_python.png
