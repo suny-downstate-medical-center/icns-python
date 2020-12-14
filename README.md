@@ -14,8 +14,8 @@ PN_model.py; README.md, example_plot_python.png
     alias envact='source env/bin/activate'
     alias envdeact='deactivate'
     alias envdel='rm -rf env'    
-### cd to icns-Matlab (type 'ls' to ensure directory exists)
-    Enter envmake
+    
+### cd to this directory and enter envmake
 
 ## Run a simulation
     Enter python3 -i PN_model.py
