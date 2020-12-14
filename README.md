@@ -22,5 +22,5 @@ PN_model.py; README.md, example_plot_python.png
     Enter python3 -i PN_model.py
 
 ## Output
-Generates voltage v. time plot amd saves figure as test_plot_python.png
+Generates voltage v. time plot amd saves figure as 'test_plot_python.png'
 
