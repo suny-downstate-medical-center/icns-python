@@ -14,7 +14,8 @@ PN_model.py; README.md, example_plot_python.png
     alias envact='source env/bin/activate'
     alias envdeact='deactivate'
     alias envdel='rm -rf env'    
-#### cd to above directory and enter envmake
+#### cd to above directory 
+Enter envmake
 
 ## Run a simulation
 Enter python3 -i PN_model.py
