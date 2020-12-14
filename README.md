@@ -1,4 +1,4 @@
-# Intrinsic Cardiac Nervous System-Right Atrial Ganglionic Plexus: Principal Neuron model - Python
+# Intrinsic Cardiac Nervous System Principal Neuron model - Python
 
 # Contents
 PN_model.py; README.md, example_plot_python.png
