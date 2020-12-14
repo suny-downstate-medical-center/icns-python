@@ -6,7 +6,7 @@ PN_model.py; README.md, example_plot_python.png
 # Usage
 ## Clone repository into new directory
     
-## Open a new Terminal window.
+## Open a new Terminal window
 
 ## If creating a virtual enviroment:
 ### Add the following aliases to your .zshrc or .bashrc file:
@@ -14,7 +14,7 @@ PN_model.py; README.md, example_plot_python.png
     alias envact='source env/bin/activate'
     alias envdeact='deactivate'
     alias envdel='rm -rf env'    
-### cd to above directory 
+### cd to icns-Matlab (type 'ls' to ensure directory exists)
     Enter envmake
 
 ## Run a simulation
