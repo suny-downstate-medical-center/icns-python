@@ -1,4 +1,4 @@
-# Intrinsic Cardiac Nervous System (ICNS) Right Atrial Ganglionic Plexus (RAGP)- Principal Neuron model - Python
+# Intrinsic Cardiac Nervous System (ICNS)-Right Atrial Ganglionic Plexus (RAGP): Principal Neuron model - Python
 
 # Contents
 PN_model.py; README.md, example_plot_python.png
