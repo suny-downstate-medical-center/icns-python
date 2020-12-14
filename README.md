@@ -18,7 +18,7 @@ PN_model.py; README.md, example_plot_python.png
     Enter envmake
 
 ## Run a simulation
-    Enter python3 -i PN_model.py
+    Enter python3 PN_model.py
 
 ## Output
 Generates voltage v. time plot (see example_plot_python.png)
