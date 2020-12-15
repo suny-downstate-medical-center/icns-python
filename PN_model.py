@@ -351,8 +351,10 @@ cAMP  = Vy[:,16]
 
 
 fig = plt.figure()
+plt.margins(x=0)
+plt.xlim(0,1)
+plt.ylim(-80,40)
 plt.plot(tspan,V)
 plt.xlabel('Time (s)')
 plt.ylabel('Membrane Voltage (mV)')
-plt.ylim(-80,40)
 fig.savefig('test_plot_python.png')
